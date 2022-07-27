@@ -1,0 +1,41 @@
+[12:56:13] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[12:56:13] [INFO ] Loaded script server_scripts:script.js in 0.002 s
+[12:56:13] [INFO ] Loaded 1/1 KubeJS server scripts in 0.014 s
+[12:56:13] [INFO ] Scripts loaded
+[12:56:13] [INFO ] Scanning recipes...
+[12:56:32] [WARN ] Failed to parse recipe 'create_confectionery:chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[12:56:32] [WARN ] Failed to parse recipe create_confectionery:chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:mixing/aloe_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:aloe_leaves'
+[12:56:32] [WARN ] Failed to parse recipe createcafe:mixing/aloe_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:aloe_leaves'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:compat/altar/blood_orange2[bloodmagic:altar]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: bloodmagic:altar
+[12:56:32] [WARN ] Failed to parse recipe createcafe:compat/altar/blood_orange2[bloodmagic:altar]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bloodmagic:altar'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:smoking/coffee_roasting[minecraft:smoking]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'createcafe:coffee'
+[12:56:32] [WARN ] Failed to parse recipe createcafe:smoking/coffee_roasting[minecraft:smoking]: com.google.gson.JsonSyntaxException: Unknown item 'createcafe:coffee'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing2[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:lavender'
+[12:56:32] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing2[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:lavender'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing3[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'abundance:lavender'
+[12:56:32] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing3[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'abundance:lavender'
+[12:56:32] [WARN ] Failed to parse recipe 'createaddition:compat/tconstruct/tinkers_bronze[create:mixing]': {"item":"tconstruct:tinkers_bronze_ingot","count":3} is not a valid result!
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:mixing/lavender_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:lavender'
+[12:56:32] [WARN ] Failed to parse recipe createcafe:mixing/lavender_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:lavender'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:milling/coffee_milling[create:milling]': {"item":"createcafe:coffee"} is not a valid result!
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:crushing/coffee_crushing[create:crushing]': {"item":"createcafe:coffee"} is not a valid result!
+[12:56:32] [WARN ] Failed to parse recipe 'createbb:phase1/ephedra_seeds_from_crop[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing item, expected to find a string
+[12:56:32] [WARN ] Failed to parse recipe createbb:phase1/ephedra_seeds_from_crop[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Missing item, expected to find a string
+[12:56:32] [WARN ] Failed to parse recipe 'create_confectionery:ruby_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[12:56:32] [WARN ] Failed to parse recipe create_confectionery:ruby_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[12:56:32] [WARN ] Failed to parse recipe 'create_confectionery:black_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[12:56:32] [WARN ] Failed to parse recipe create_confectionery:black_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:mixing/yucca_tea_mixing[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:yucca_fruit'
+[12:56:32] [WARN ] Failed to parse recipe createcafe:mixing/yucca_tea_mixing[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'atmospheric:yucca_fruit'
+[12:56:32] [WARN ] Failed to parse recipe 'create_confectionery:white_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[12:56:32] [WARN ] Failed to parse recipe create_confectionery:white_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:compat/altar/blood_orange[bloodmagic:altar]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: bloodmagic:altar
+[12:56:32] [WARN ] Failed to parse recipe createcafe:compat/altar/blood_orange[bloodmagic:altar]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'bloodmagic:altar'
+[12:56:32] [WARN ] Failed to parse recipe 'createcafe:compat/mana_infusion/mana_berries[botania:mana_infusion]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: botania:mana_infusion
+[12:56:32] [WARN ] Failed to parse recipe createcafe:compat/mana_infusion/mana_berries[botania:mana_infusion]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botania:mana_infusion'
+[12:56:32] [INFO ] Found 7285 recipes and 0 failed recipes in 279.9 ms
+[12:56:32] [INFO ] Posted recipe events in 626.5 μs
+[12:56:32] [INFO ] Modified & removed recipes in 128.0 ms
+[12:56:32] [INFO ] Added recipes in 920.3 μs
+[12:56:32] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
