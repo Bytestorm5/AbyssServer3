@@ -1,5 +1,5 @@
 #Minecraft server properties
-#Wed Jul 27 12:56:12 EDT 2022
+#Sat Aug 06 13:09:19 EDT 2022
 allow-flight=false
 allow-nether=true
 broadcast-console-to-ops=true
@@ -32,16 +32,16 @@ op-permission-level=4
 player-idle-timeout=0
 prevent-proxy-connections=false
 pvp=true
-query.port=25565
+query.port=25564
 rate-limit=0
 rcon.password=
-rcon.port=25575
+rcon.port=25574
 require-resource-pack=false
 resource-pack=
 resource-pack-prompt=
 resource-pack-sha1=
 server-ip=
-server-port=25565
+server-port=25564
 simulation-distance=10
 spawn-animals=true
 spawn-monsters=true
