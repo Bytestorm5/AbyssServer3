@@ -12,11 +12,12 @@ Mods are organized into different branches, effectively working as presets:
 
 ## Quick Start
 
-Install Forge. You will need version `40.1.79` or higher- you can just pick up the latest version and be fine.
+Install Forge. You will need version ![`40.1.79` or higher](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html)- you can just pick up the latest version and be fine.
 
 Start minecraft on the new Forge installation and make sure it fully loads once with no mods loaded- you technically don't have to do this but its good to make sure its working
 
 Select a preset to run from the `branches` menu:
+![image](https://user-images.githubusercontent.com/31070777/206109193-2d5e6ea2-2756-481a-bf5a-3ea23068d9cc.png)
 
 Download the branch as a `.zip` file and extract it (windows has this as a base feature):
 
