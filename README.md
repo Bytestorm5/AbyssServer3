@@ -22,6 +22,8 @@ Mods are organized into different branches, effectively working as presets:
 
 Download the branch as a `.zip` file and extract it (windows has this as a base feature):
 
+![image](https://user-images.githubusercontent.com/31070777/206109824-6405eb26-698c-4c8e-8616-ed559645f1a0.png)
+
 Move the mods in the `mods` folder into your `.minecraft/mods` folder _(on windows this is located at `%appdata%/.minecraft`- you can copy/paste that into your file explorer path)_
 If there are already mods in the mods folder, take them out
 
