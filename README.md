@@ -24,7 +24,12 @@ Download the branch as a `.zip` file and extract it (windows has this as a base 
 
 ![image](https://user-images.githubusercontent.com/31070777/206109824-6405eb26-698c-4c8e-8616-ed559645f1a0.png)
 
-Move the mods in the `mods` folder into your `.minecraft/mods` folder _(on windows this is located at `%appdata%/.minecraft`- you can copy/paste that into your file explorer path)_
+ - Move the mods in the `mods` folder into your `.minecraft/mods` folder _(on windows this is located at `%appdata%/.minecraft`- you can copy/paste that into your file explorer path)_
 If there are already mods in the mods folder, take them out
 
-If the preset includes a resourcepack, copy the files in the `resourcepacks` folder into your `.minecraft/resourcepacks` folder:
+ - - If the preset includes a resourcepack, copy the files in the `resourcepacks` folder into your `.minecraft/resourcepacks` folder:
+
+ - For the new forge installation, it's reccomended to set the JVM arguments to the following:
+ `-XX:+UseG1GC -Xmx6G -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M`
+ 
+ This will give the game 6GB of RAM and gives it better Garbage Collection parameters than the default. If you understood what that meant do not ask me to explain why because I do not know I copied this from a reddit thread and it works
