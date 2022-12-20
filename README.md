@@ -4,11 +4,11 @@
 
 Mods are organized into different branches, effectively working as presets:
 
-`bare-minimum:` The bare minimum mods you need to connect to the server- no client-side optimizations or anything.
+`bare-minimum:` The bare minimum mods you need to connect to the server- no client-side optimizations or anything. Don't use this unless you have your own set of cleint-side mods that you want to use.
 
 `performance:` The base pack with optimization mods like Rubidium and Magnesium _(not Optifine bc that breaks things)_.
 
-`pretty:` Includes everything from the performance pack, with extra resourcepacks and mods for aesthetics.
+`pretty:` Includes everything from the performance pack, with extra resourcepacks and mods for aesthetics. **This preset is not done yet.**
 
 ## Quick Start
 
