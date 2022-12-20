@@ -13,6 +13,9 @@ Mods are organized into different branches, effectively working as presets:
 ## Quick Start
 
  - [Install Forge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html). You will need version `40.1.79` or higher- you can just pick up the latest version and be fine.
+Make sure to install the **client** version of Forge.
+![image](https://user-images.githubusercontent.com/31070777/208756850-115be0c1-d15b-4de5-9586-73c5cb2a47cd.png)
+
 
  - Start minecraft on the new Forge installation and make sure it fully loads once with no mods loaded- you technically don't have to do this but its good to make sure its working
 
